@@ -1,0 +1,65 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.corpo{
+    width: 300px;
+    height: 355px;
+    margin: 50px auto;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+.cabeca{
+    width: 100%;
+    height: 65px;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: rgb(32, 32, 32);
+    margin-bottom: 5px;
+}
+
+.linha{
+    width: 80% ;
+    height: 2px;
+    background-color: rgb(88, 88, 88);
+    opacity: 0.6;
+    margin: 0 auto;
+}
+.input{
+    width: 60%;
+    height: 25px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    border: 0 none;
+    outline: 0;
+    text-align: center;
+    
+}
+.teste{
+    width: 100%;
+    height: 250px;
+    text-align: center;
+}
+
+.resultado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 100px;
+    background-color: white;
+    margin: 10px auto;
+    border-radius: 10px;
+    
+}
+.nome{
+    margin-top: 20px;
+}
+.botao{
+    width: 10vw;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
