@@ -1,6 +1,6 @@
 body{
-    height: 80vh;
-        background-image: url('https://st3.depositphotos.com/3732989/14313/i/1600/depositphotos_143137771-stock-photo-help-to-lose-kilograms-with.jpg'); /* Caminho para a imagem */
+        height: 97vh;
+        background-image: url('https://wallpapers.com/images/high/gym-background-96f6yokunny2bjno.webp'); /* Caminho para a imagem */
         background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
         background-position: center; /* Centraliza a imagem */
         background-repeat: no-repeat; /* Evita a repetição da imagem */
@@ -9,7 +9,7 @@ body{
 .corpo{
     width: 300px;
     height: 355px;
-    margin: 110px auto;
+    margin: auto;
     background-color: rgba(19, 19, 19, 0.651);
     display: flex;
     flex-direction: column;
