@@ -1,7 +1,7 @@
 # IMC_
 
 # Inicializar o repositório
-git init
+https://christophertelles.github.io/IMCremote.io/
 
 # Adicionar todos os arquivos
 git add .
