@@ -1,0 +1,43 @@
+ Aqui está a lista dos principais comandos do Git junto com suas descrições:
+ 
+
+git init - Inicializa um repositório Git.
+
+git add <arquivo> - Adiciona arquivos ao estágio (stage) para o próximo commit.
+
+git add . - Adiciona todos os arquivos modificados ao estágio (stage).
+
+git commit -m "mensagem do commit" - Cria um novo commit com uma mensagem descritiva.
+
+git status - Verifica o status dos arquivos no repositório (modificados, não rastreados, etc.).
+
+git log - Mostra o histórico de commits.
+
+git branch <nome-do-branch> - Cria um novo branch.
+
+git checkout <nome-do-branch> - Troca para outro branch.
+
+git checkout -b <nome-do-branch> - Cria um novo branch e muda para ele.
+
+git merge <nome-do-branch> - Mescla um branch ao branch atual.
+
+git push origin <nome-do-branch> - Envia commits para um repositório remoto.
+
+git pull origin <nome-do-branch> - Busca e mescla alterações de um repositório remoto.
+
+git clone <url-do-repositorio> - Clona um repositório remoto.
+
+git reset --hard <commit-hash> - Desfaz alterações no repositório para um commit específico.
+
+git reset <arquivo> - Remove arquivos do staging area.
+
+git diff - Mostra a diferença entre o estado atual e o último commit.
+
+
+
+git config --global user.name "ChristopherTelles"
+
+git config --global user.email "teleschristopher@gmail.com"
+
+
+
