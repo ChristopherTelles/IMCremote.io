@@ -1,5 +1,3 @@
-# IMC_
-
 # Projeto para calcular o IMC 
 
 Projeto desenvolvido para fins didáticos.
