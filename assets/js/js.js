@@ -16,12 +16,12 @@ function MostrarBot(){
         }
     
         if (!validarPeso(peso)) {
-            resultadoDiv.textContent = "Por favor, digite um peso válido (maior que zero).";
+            resultadoDiv.textContent = `Por favor ${nome}, digite um peso válido (maior que zero).`;
             return;
         }
     
         if (!validarAltura(altura)) {
-            resultadoDiv.textContent = "Por favor, digite uma altura válida (maior que zero).";
+            resultadoDiv.textContent = `Por favor ${nome}, digite uma altura válida (maior que zero).`;
         return;
         }
     
